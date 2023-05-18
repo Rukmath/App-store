@@ -1,0 +1,21 @@
+.app-list-item {
+  list-style-type: none;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 120px;
+  width: 110px;
+  margin: 8px;
+  border-radius: 8px;
+}
+.app-image {
+  height: 60px;
+  width: 60px;
+}
+.app-name {
+  color: 1e293b;
+  font-size: 13px;
+  font-family: 'Bree serif';
+}
